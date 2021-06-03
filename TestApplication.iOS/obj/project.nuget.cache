@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ypN492etRz7cOejFN3fj/8Bjqh/I3IOOvfbOgKL2xyhGvUeB18JV+oDgoqsRCPb7h/aBVjF32PVq6mK+KPs+Jw==",
+  "success": true,
+  "projectFilePath": "/Users/soe-admin/Projects/TestApplication/TestApplication.iOS/TestApplication.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/soe-admin/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/soe-admin/.nuget/packages/xamarin.forms/4.6.0.1141/xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}
