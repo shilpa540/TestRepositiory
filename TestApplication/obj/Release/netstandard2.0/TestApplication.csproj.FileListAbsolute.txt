@@ -1,0 +1,13 @@
+/Users/soe-admin/Projects/TestApplication/TestApplication/bin/Release/netstandard2.0/TestApplication.deps.json
+/Users/soe-admin/Projects/TestApplication/TestApplication/bin/Release/netstandard2.0/TestApplication.dll
+/Users/soe-admin/Projects/TestApplication/TestApplication/bin/Release/netstandard2.0/ref/TestApplication.dll
+/Users/soe-admin/Projects/TestApplication/TestApplication/bin/Release/netstandard2.0/TestApplication.pdb
+/Users/soe-admin/Projects/TestApplication/TestApplication/obj/Release/netstandard2.0/App.xaml.g.cs
+/Users/soe-admin/Projects/TestApplication/TestApplication/obj/Release/netstandard2.0/MainPage.xaml.g.cs
+/Users/soe-admin/Projects/TestApplication/TestApplication/obj/Release/netstandard2.0/TestApplication.AssemblyInfoInputs.cache
+/Users/soe-admin/Projects/TestApplication/TestApplication/obj/Release/netstandard2.0/TestApplication.AssemblyInfo.cs
+/Users/soe-admin/Projects/TestApplication/TestApplication/obj/Release/netstandard2.0/TestApplication.csproj.CoreCompileInputs.cache
+/Users/soe-admin/Projects/TestApplication/TestApplication/obj/Release/netstandard2.0/XamlC.stamp
+/Users/soe-admin/Projects/TestApplication/TestApplication/obj/Release/netstandard2.0/TestApplication.dll
+/Users/soe-admin/Projects/TestApplication/TestApplication/obj/Release/netstandard2.0/ref/TestApplication.dll
+/Users/soe-admin/Projects/TestApplication/TestApplication/obj/Release/netstandard2.0/TestApplication.pdb

@@ -1,6 +1,34 @@
-﻿<Properties StartupConfiguration="{145F5FDE-D6F3-4ED8-BC50-4DEC595CA813}|Default">
-  <MonoDevelop.Ide.ItemProperties.TestApplication FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.TestApplication.Android FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.TestApplication.iOS FirstBuild="True" />
+﻿<Properties StartupConfiguration="{FD4004E5-C295-4FB3-9F86-35C8E35C29EA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestApplication/MainPage.xaml">
+    <Files>
+      <File FileName="TestApplication/App.xaml.cs" Line="13" Column="36" />
+      <File FileName="TestApplication/MainPage.xaml.cs" Line="19" Column="1" />
+      <File FileName="TestApplication/MainPage.xaml" Line="13" Column="61" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="TestApplication" expanded="True">
+            <Node name="TestApplication" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+            <Node name="TestApplication.Android" expanded="True">
+              <Node name="bin" expanded="True" />
+              <Node name="obj" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TestApplication.Android PreferredExecutionTarget="Android.pixel_3_pie_9_0_-_api_28_1" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TestApplication.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.754E9933-F314-4925-9AAC-80BC135D8B6C" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
